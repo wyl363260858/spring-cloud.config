@@ -1,4 +1,4 @@
 spring:
   cloud:
     config:
-      enable: true  version=7
+      enable: true  version=8
